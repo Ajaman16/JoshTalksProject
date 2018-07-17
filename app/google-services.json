@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "579452496826",
+    "firebase_url": "https://joshtalks-9e198.firebaseio.com",
+    "project_id": "joshtalks-9e198",
+    "storage_bucket": "joshtalks-9e198.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579452496826:android:163c211bbe2f2274",
+        "android_client_info": {
+          "package_name": "com.thunderx.joshtalks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579452496826-7vj44vqsv26igrclj1gc9jrs3d8mi0fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhnMR2_a25QomtVKoNzUZbROU6VS33feE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
